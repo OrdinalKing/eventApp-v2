@@ -132,7 +132,6 @@ public class MainActivity extends AppCompatActivity {
                 createEvent();
             }
 
-
             return true;
         });
         NavigationView navigationView = (NavigationView) findViewById(R.id.navigationView);
@@ -209,7 +208,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setWelcomeName(){
-
 
         if (LoginActivity.isGuestMode)
         {

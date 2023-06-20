@@ -253,18 +253,5 @@ public class CreateEventActivity extends AppCompatActivity {
             Toast.makeText(this, "Try again!", Toast.LENGTH_SHORT).show();
         }
     }
-//    @Override
-//    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
-//        super.onActivityResult(requestCode, resultCode, data);
-//
-//        if (requestCode == CropImage.CROP_IMAGE_ACTIVITY_REQUEST_CODE && resultCode == RESULT_OK) {
-//            CropImage.ActivityResult result = CropImage.getActivityResult(data);
-//            imageUri = result.getUri();
-//            imageUpload.setImageURI(imageUri);
-//
-//        }
-//        else {
-//            Toast.makeText(this, "Try again!", Toast.LENGTH_SHORT).show();
-//        }
-//    }
+
 }

@@ -33,7 +33,7 @@ import java.util.Locale;
 import java.util.Map;
 
 public class EventDetailActivity extends AppCompatActivity {
-    public static String eventId;
+    public static String eventId = "C7bwF0oO5Cw4AKrftKa7";
     public RecyclerView reviewList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
