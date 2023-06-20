@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MeetUpMarvin</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="myEvents">My Events</string>
+    <string name="events">Events</string>
+    <string name="my_image_description">My image description</string>
+    <string name="home">Home</string>
+    <string name="currently_open">Currently Open Places</string>
+    <string name="report_error">Report error</string>
+    <string name="about_us">About Us</string>
+    <string name="welcome_name_surname">Welcome, Guest Mode!</string>
+    <string name="open">Open drawer</string>
+    <string name="close">Close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="amela_kurtic">Amela Kurtic</string>
+    <string name="amir_basic">Amir Basic</string>
+    <string name="app_version">1.0</string>
+    <string name="version_title">Version:</string>
+    <string name="app_developed_by">App developed by:</string>
+    <string name="icon_provider_title">Icon providers: </string>
+    <string name="icon_provider1"><a href="">Dummy icon provider</a></string>
+    <string name="action_search">Search here...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="filter_all">All</string>
+    <string name="filter_now">Now</string>
+    <string name="filter_graz">Graz</string>
+    <string name="filter_today">Today</string>
+    <string name="filter_tomorrow">Tomorrow</string>
+</resources>

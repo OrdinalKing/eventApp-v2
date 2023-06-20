@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/events"
+        android:title="@string/events"
+        android:icon="@drawable/baseline_celebration_24"/>
+    <item
+        android:id="@+id/myEvents"
+        android:title="@string/myEvents"
+        android:icon="@drawable/baseline_favorite_24"/>
+</menu>

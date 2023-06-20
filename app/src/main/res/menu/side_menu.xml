@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/home_id"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home"
+            />
+        <item android:id="@+id/notification_id"
+            android:icon="@drawable/ic_notification"
+            android:title="Notification"
+            />
+        <item android:id="@+id/create_event_id"
+            android:icon="@drawable/ic_event"
+            android:title="Create Event"
+            />
+        <item android:id="@+id/buy_ticket_id"
+            android:icon="@drawable/ic_ticket"
+            android:title="Buy Tickets"
+            />
+        <item
+            android:id="@+id/about_id"
+            android:icon="@drawable/ic_about_us"
+            android:title="@string/about_us" />
+        <item
+            android:id="@+id/error_id"
+            android:icon="@drawable/ic_error"
+            android:title="@string/report_error" />
+
+        <item android:id="@+id/logout_id"
+            android:icon="@drawable/ic_logout"
+            android:title="LogOut"
+            />
+    </group>
+</menu>
